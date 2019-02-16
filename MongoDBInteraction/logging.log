@@ -1,0 +1,35 @@
+2019-01-25 19:00:03 INFO  TeacherService:43 - This is info : 
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:31 - Mongo inster	10
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:31 - Mongo inster	111
+2019-01-25 19:00:03 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:00:36 INFO  TeacherService:43 - This is info : 
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:31 - Mongo inster	10
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:31 - Mongo inster	111
+2019-01-25 19:00:36 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:01:14 INFO  TeacherService:43 - This is info : 
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:31 - Mongo inster	10
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:26 - Mongo inster	
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:31 - Mongo inster	111
+2019-01-25 19:01:14 INFO  TeacherMongoDaoImpl:37 - Teacher Not Found	
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	Sireesha
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@2fb69054
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	Sirsha
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@223c6b4b
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	Sirsha
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@6753f434
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	john
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@5735d9db
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	123
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@70913795
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	Viswanath
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@73e55921
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:55 - Mongo inster	john
+2019-01-25 19:01:32 INFO  TeacherMongoDaoImpl:59 - Mongo inster	com.hemanth.Model.Teacher@7a730135
